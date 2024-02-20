@@ -1,0 +1,2 @@
+# BingoPlugin
+ Simple Bingo Plugin
