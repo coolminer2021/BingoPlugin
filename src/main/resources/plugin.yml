@@ -1,0 +1,10 @@
+name: Bingo
+version: '${project.version}'
+main: cool_miner2021.bingo.Bingo
+api-version: 1.20
+commands:
+  bingo:
+  generateitems:
+    permission: bingo.generate
+  reset:
+    permission: bingo.reset
