@@ -1,8 +1,10 @@
 # BingoPlugin
- Simple Bingo Plugin
-/bingo => zeigt dir die Bingo Items
-/generateitems => generiert neue Bingo Items
-/reset => setzt das Spiel zurück
+
+__/bingo__ => zeigt dir die Bingo Items
+ 
+__/generateitems__ => generiert neue Bingo Items
+ 
+__/reset__ => setzt das Spiel zurück
 
  
 
